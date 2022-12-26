@@ -1,0 +1,3 @@
+- Revising DOM and working with JSON, REST APIs and building a front end example.
+- Using reqres.in (dummy API)
+- Using parcel for bundling
