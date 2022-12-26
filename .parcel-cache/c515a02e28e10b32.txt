@@ -52,14 +52,14 @@
 122C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\postcss\node_modules\chalk\node_modules\supports-color133165611866585449 1
 87C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\uri-js\package.json133165610941907493 0
 103C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\babel-runtime\helpers\selfGlobal.js133165611029745452 0
-59C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist133165686391611954 1
+59C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist133165688364138483 1
 129C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\postcss-normalize-url\node_modules\postcss\lib\declaration.js133165611919622407 0
 92C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\es-to-primitive\Makefile133165610750720519 0
 116C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\caniuse-lite\data\features\permissions-policy.js133165602885332161 0
 94C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\stream-http\lib\request.js133165610886408499 0
 85C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\is-color-stop\lib133165610918405665 1
 110C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\parcel-bundler\lib\utils\installPackage.js133165614624664532 0
-65C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\.gitignore133165613186733956 0
+65C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\.gitignore133165687678473914 0
 93C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\svgo\plugins\prefixIds.js133165612132815665 0
 111C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\es-abstract\2020\CreateListFromArrayLike.js133165611099087404 0
 105C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\core-js\modules\es6.number.epsilon.js133165611146992236 0
@@ -85,7 +85,7 @@
 101C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\postcss-normalize-charset\LICENSE133165611857184888 0
 95C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@babel\types\lib\retrievers133165611074089411 1
 144C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\bundler-default\node_modules\@parcel\utils\src\relativeBundlePath.js133165614993785773 0
-65C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\index.html133165617077184118 0
+65C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\index.html133165688364108477 0
 92C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\is-weakref\test\index.js133165610824218796 0
 113C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\cache\node_modules\@parcel\logger\lib133165614862185706 1
 109C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\stylehacks\node_modules\postcss\README.md133165612121962621 0
@@ -250,7 +250,7 @@
 128C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\stylehacks\node_modules\postcss-selector-parser\CHANGELOG.md133165612111273136 0
 88C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\sprintf-js\README.md133165610753349452 0
 123C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\postcss-modules-values\node_modules\postcss\lib\root.js133165611016220496 0
-82C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\src\components\user-info.js133165686174695942 0
+82C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\src\components\user-info.js133165687085029629 0
 136C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\postcss-normalize-display-values\node_modules\postcss\lib\postcss.js133165611982483785 0
 139C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\optimizer-htmlnano\node_modules\htmlparser2\lib\Parser.d.ts.map133165614920261921 0
 118C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\core-js\library\modules\es6.typed.float32-array.js133165611164550972 0
@@ -535,7 +535,7 @@
 109C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\postcss-normalize-whitespace\package.json133165611832731637 0
 115C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\cssstyle\lib\properties\webkitBorderEndColor.js133165611047120945 0
 128C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\lightningcss-win32-x64-msvc\lightningcss.win32-x64-msvc.node133165614997855833 0
-70C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.html133165616940120420 0
+70C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.html133165688364118572 0
 157C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\side-effects-package-redirect-up\foo133165615018834579 1
 84C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\stream-http\test133165610996165425 1
 92C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\core-js\es6\parse-int.js133165611231079271 0
@@ -24754,7 +24754,7 @@
 120C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\optimizer-svgo\node_modules\has-flag\license133165614882595659 0
 125C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\optimizer-svgo\node_modules\has-flag\package.json133165614855865531 0
 120C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\optimizer-svgo\node_modules\entities\LICENSE133165614855845527 0
-82C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.2cdaf7bc.css.map133165686391199773 0
+82C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.2cdaf7bc.css.map133165688362651087 0
 125C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\optimizer-svgo\node_modules\entities\package.json133165614918151928 0
 122C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\optimizer-svgo\node_modules\entities\readme.md133165614934562809 0
 132C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\@parcel\optimizer-svgo\node_modules\entities\lib\decode.d.ts.map133165614926292898 0
@@ -27536,7 +27536,7 @@
 78C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\.bin\uncss133165611280048084 0
 82C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\node_modules\.bin\uncss.cmd133165611280048084 0
 94C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\frontEndWebAPIPractice.3464ddca.js133165616176195210 0
-77C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.0641b553.js133165686391555706 0
-81C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.0641b553.js.map133165686391590803 0
-78C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.2cdaf7bc.css133165686391114498 0
+77C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.0641b553.js133165688362952859 0
+81C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.0641b553.js.map133165688362982888 0
+78C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.2cdaf7bc.css133165688362587398 0
 77C:\Users\sharm\Desktop\Projects\frontEndWebAPIPractice\dist\index.816e7b21.js133165608459874379 0
