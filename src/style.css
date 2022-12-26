@@ -1,0 +1,51 @@
+/* Add some whitespace around the entire page */
+body {
+  margin: 20px;
+  font-family: sans-serif;
+}
+
+/* Make sure the width is consistent for each, and wrap them if necessary */
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Use Flexbox to manage the horizontal spacing of the avatar and user-info */
+.profile-card {
+  display: flex;
+  margin-bottom: 15px;
+  min-width: 415px;
+}
+
+/* Make the avatar's edge rounded, add a border, and fill the background */
+.profile-avatar {
+  border-radius: 50%;
+  border: 3px solid #0074d9;
+  background-color: #0074d9;
+}
+
+/* Vertically centre the name/email info */
+.user-info {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Set the size of the text for the user's name, and eliminate margin */
+.profile-name {
+  color: #001f3f;
+  font-size: 1.5em;
+  margin: 0;
+}
+
+/* Set the size of the text for the user's email, and eliminate margin */
+.profile-email {
+  font-size: 1.3em;
+  margin: 0;
+}
+
+/* Use a lighter blue for the email link */
+.profile-email a {
+  color: #0074d9;
+}
